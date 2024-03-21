@@ -2,8 +2,8 @@
 
 ## Carpeta 10. Introducción a los servidores Web.
 
-1. Definición de servidor web.
-2. Importancia de los servidores web en el desarrollo web moderno.
+1. [Definición de servidor web](./10/10-A.md)
+2. [Importancia de los servidores web en el desarrollo web moderno](./10/10-B.md)
 
 ![Conexión a Teams](../img/lab-07-C/202311231147.png)
 
