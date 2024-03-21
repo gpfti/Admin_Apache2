@@ -2,8 +2,10 @@
 
 ## Carpeta 10. Introducción a los servidores Web.
 
-1. Definición de servidor web.
+1. Definición de `servidor web`.
 2. Importancia de los servidores web en el desarrollo web moderno.
+
+![Conexión a Teams](../img/lab-07-C/202311231147.png)
 
 1. Laboratorio 00: ***Preparación del entorno de laboratorio en Windows***. Los ejercicios a realizar son:
    - Instalación de VirtualBox para Windows.
