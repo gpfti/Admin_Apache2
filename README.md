@@ -4,8 +4,8 @@
 
 1. [Definición de servidor web](./10/10-A.md)
 2. [Importancia de los servidores web en el desarrollo web moderno](./10/10-B.md)
+3. [Evolución de Apache http Server](./10/10-C.md)
 
-![Conexión a Teams](../img/lab-07-C/202311231147.png)
 
 1. Laboratorio 00: ***Preparación del entorno de laboratorio en Windows***. Los ejercicios a realizar son:
    - Instalación de VirtualBox para Windows.
