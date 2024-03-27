@@ -13,6 +13,7 @@
 3. [Módulos](./20/20-C.md)
 4. [Mensajes de error personalizados](./20/20-D.md)
 5. [Bindings y Servidores Virtuales](./20/20-E.md)
+6. [Variables de entorno en Apache](./20/20-F.md)
 
 
 
