@@ -12,6 +12,7 @@
 2. [Archivos de configuración de Apache](./20/20-B.md)
 3. [Módulos](./20/20-C.md)
 4. [Mensajes de error personalizados](./20/20-D.md)
+5. [Bindings y Servidores Virtuales](./20/20-E.md)
 
 
 
