@@ -16,6 +16,7 @@
 6. [Variables de entorno en Apache](./20/20-F.md)
 7. [Módulo de reescritura (mod_rewrite) en Apache](./20/20-G.md)
 8. [SSL en Apache](./20/20-H.md)
+9. [PHP en Apache](./20/20-I.md)
 
 
 
