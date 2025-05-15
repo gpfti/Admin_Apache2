@@ -18,13 +18,5 @@
 8. [SSL en Apache](./20/20-H.md)
 9. [PHP en Apache](./20/20-I.md)
 
-
-
-
-
-
-
-
-
-
-
+## Referencias
+[Documentación oficial Apache 2.4](https://httpd.apache.org/docs/2.4/)
