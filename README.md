@@ -20,3 +20,6 @@
 
 ## Referencias
 [Documentación oficial Apache 2.4](https://httpd.apache.org/docs/2.4/)
+
+**Disclaimer:**
+Los logotipos, marcas registradas y cualquier otro material gráfico relacionado con *Apache HTTP Server* (Apache 2) incluidos en este documento son propiedad de la *Apache Software Foundation*. Se presentan únicamente con fines ilustrativos y educativos, sin intención de infringir derechos de propiedad intelectual ni de implicar asociación o respaldo por parte de la *Apache Software Foundation*. Todos los derechos sobre dichos elementos pertenecen a sus respectivos titulares.
