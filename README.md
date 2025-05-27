@@ -19,8 +19,8 @@
 8. [SSL en Apache](./20/20-H.md)  
 9. [PHP en Apache](./20/20-I.md)  
 10. [Conexión Apache2 <> Apache Tomcat](./20/20-J.md) 
-11. [Tipos de Balaceo de Carga en Apache2. Interfaz da Balanceo](./20/20-J.md)    
-12. [Escalado vertical y horizontal](./20/20-K.md)    
+11. [Tipos de Balaceo de Carga en Apache2. Interfaz da Balanceo](./20/20-K.md)    
+12. [Escalado vertical y horizontal](./20/20-L.md)    
 
 ## Referencias
 [Documentación oficial Apache 2.4](https://httpd.apache.org/docs/2.4/)
