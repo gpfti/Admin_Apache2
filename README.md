@@ -20,6 +20,7 @@
 9. [PHP en Apache](./20/20-I.md)  
 10. [Conexión Apache2 <> Apache Tomcat](./20/20-J.md) 
 11. [Tipos de Balaceo de Carga en Apache2. Interfaz da Balanceo](./20/20-K.md)    
+11b. [Balanceo de Carga Dinámico con Apache y Tomcat](./20/20-K2.md)  
 12. [Escalado vertical y horizontal](./20/20-L.md)    
 
 ## Referencias
